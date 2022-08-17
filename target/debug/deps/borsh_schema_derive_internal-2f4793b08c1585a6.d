@@ -1,0 +1,10 @@
+/Users/thienle/voting/target/debug/deps/borsh_schema_derive_internal-2f4793b08c1585a6.rmeta: /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/lib.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/helpers.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/enum_schema.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/struct_schema.rs
+
+/Users/thienle/voting/target/debug/deps/libborsh_schema_derive_internal-2f4793b08c1585a6.rlib: /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/lib.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/helpers.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/enum_schema.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/struct_schema.rs
+
+/Users/thienle/voting/target/debug/deps/borsh_schema_derive_internal-2f4793b08c1585a6.d: /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/lib.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/helpers.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/enum_schema.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/struct_schema.rs
+
+/Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/lib.rs:
+/Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/helpers.rs:
+/Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/enum_schema.rs:
+/Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.1/src/struct_schema.rs:

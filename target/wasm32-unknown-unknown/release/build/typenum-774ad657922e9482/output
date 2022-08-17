@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/thienle/voting/target/wasm32-unknown-unknown/release/build/typenum-774ad657922e9482/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/thienle/voting/target/wasm32-unknown-unknown/release/build/typenum-774ad657922e9482/out/op.rs

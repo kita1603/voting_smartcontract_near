@@ -1,0 +1,12 @@
+/Users/thienle/voting/target/wasm32-unknown-unknown/release/deps/borsh-4c60b3029834c505.rmeta: /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/lib.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/mod.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/hint.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema_helpers.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/ser/mod.rs
+
+/Users/thienle/voting/target/wasm32-unknown-unknown/release/deps/libborsh-4c60b3029834c505.rlib: /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/lib.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/mod.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/hint.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema_helpers.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/ser/mod.rs
+
+/Users/thienle/voting/target/wasm32-unknown-unknown/release/deps/borsh-4c60b3029834c505.d: /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/lib.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/mod.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/hint.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema_helpers.rs /Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/ser/mod.rs
+
+/Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/lib.rs:
+/Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/mod.rs:
+/Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/hint.rs:
+/Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema.rs:
+/Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema_helpers.rs:
+/Users/thienle/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/ser/mod.rs:
